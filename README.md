@@ -57,7 +57,7 @@ dvr.Quit()               # 官方 API 方法
 ## 安装要求
 
 * Python **3.5+**
-* DaVinci Resolve **19+**（建议 19.1 及以上，需 Fusion 或 Studio 版本）
+* DaVinci Resolve **19+**（建议 19.1 及以上，需 Studio 版本）
 * 确保设置了 DaVinci Resolve 的脚本环境变量
 
 <details>
